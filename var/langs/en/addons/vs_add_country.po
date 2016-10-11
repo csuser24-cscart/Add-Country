@@ -1,0 +1,101 @@
+msgid ""
+msgstr "Project-Id-Version: tygh"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US"
+
+msgctxt "Addons::name::vs_add_country"
+msgid "Add Country"
+msgstr "Add Country"
+
+msgctxt "LanguageName"
+msgid "Localized language name"
+msgstr "English"
+
+msgctxt "Addons::description::vs_add_country"
+msgid "Add Country In Your Store"
+msgstr "Add Country In Your Store"
+
+msgctxt "Languages::country_code"
+msgid "Country Code"
+msgstr "Country Code"
+
+msgctxt "Languages::write_here_country_two_digit_code"
+msgid "Write Here Two Digit County Code Like: 'AF' for Afganistan"
+msgstr "Write Here Two Digit County Code Like: 'AF' for Afganistan"
+
+msgctxt "Languages::country_name"
+msgid "Country Name"
+msgstr "Country Name"
+
+msgctxt "Languages::write_here_country_name"
+msgid "Write Here Name Of Country"
+msgstr "Write Here Name Of Country"
+
+msgctxt "Languages::country_a3_code"
+msgid "Country A3 Code"
+msgstr "Country A3 Code"
+
+msgctxt "Languages::write_here_country_three_digit_code"
+msgid "Write Here Country Code In Three Character Alphabatic Code Like 'AFG' For Afganistan"
+msgstr "Write Here Country Code In Three Character Alphabatic Code Like 'AFG' For Afganistan"
+
+msgctxt "Languages::country_n3_code"
+msgid "Country N3 Code"
+msgstr "Country N3 Code"
+
+msgctxt "Languages::write_here_country_three_digit_numeric_code"
+msgid "Write Here Country Code In Three Digit Numeric Code Like '004' For Afganistan"
+msgstr "Write Here Country Code In Three Digit Numeric Code Like '004' For Afganistan"
+
+msgctxt "Languages::country_region"
+msgid "Country Region"
+msgstr "Country Region"
+
+msgctxt "Languages::write_here_country_region_code"
+msgid "Write Here Country Region Here Like :  'AS' for Afganistan"
+msgstr "Write Here Country Region Here Like :  'AS' for Afganistan"
+
+msgctxt "Languages::country_latitute"
+msgid "Country Lat"
+msgstr "Country Lat"
+
+msgctxt "Languages::write_here_country_latitute"
+msgid "Fill Country Latitute"
+msgstr "Fill Country Latitute"
+
+msgctxt "Languages::country_longitute"
+msgid "Country Longitute"
+msgstr "Country Longitute"
+
+msgctxt "Languages::write_here_country_langitute"
+msgid "Fill Country Longitite Here"
+msgstr "Fill Country Longitite Here"
+
+msgctxt "Languages::note"
+msgid "NOTE "
+msgstr "NOTE "
+
+msgctxt "Languages::Please_fill_accurate_info_because_wrong_data_can_affect_your_store_functionality"
+msgid "Please fill accurate info because wrong data can affect your store functionality"
+msgstr "Please fill accurate info because wrong data can affect your store functionality"
+
+msgctxt "Languages::note"
+msgid "NOTE "
+msgstr "NOTE "
+
+msgctxt "Languages::note"
+msgid "NOTE "
+msgstr "NOTE "
+
+msgctxt "Languages::note"
+msgid "NOTE "
+msgstr "NOTE "
+
+msgctxt "Languages::note"
+msgid "NOTE "
+msgstr "NOTE "
+
+msgctxt "Languages::note"
+msgid "NOTE "
+msgstr "NOTE "
